@@ -6,7 +6,7 @@
 ![HTML & CSS](https://img.shields.io/badge/HTML-CSS-orange)
 ![Live class](https://img.shields.io/badge/LIVE--CLASS-PROJECT--6-lightgrey)
 
-## PROJECT 05 - [LINK ](https://liveproj-05.netlify.app/)
+## PROJECT 06 - [LINK ](https://liveproj-06.netlify.app/)
 
 -   Skills Gained in this project
     -   Learned to decleare Internal stylesheets which is not a good practise.
